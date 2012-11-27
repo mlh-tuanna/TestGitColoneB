@@ -1,4 +1,4 @@
-TestGitColoneB
+TestGitColoneA
 ==============
-
-Test git clone
+Test 01
+Test clone

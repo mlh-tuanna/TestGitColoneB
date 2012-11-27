@@ -1,4 +1,0 @@
-TestGitColoneB
-==============
-
-Test git clone
