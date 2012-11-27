@@ -1,0 +1,4 @@
+TestGitColoneB
+==============
+
+Test git clone
